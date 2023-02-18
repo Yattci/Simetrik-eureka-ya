@@ -1,0 +1,1 @@
+# Simetrik-eureka-ya
